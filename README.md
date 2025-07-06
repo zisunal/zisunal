@@ -1,7 +1,7 @@
 - 👋 Hi, I’m zisun
 - 👀 I’m interested in Programming
 - 🌱 I’m currently working on Web and API development
-- 📫 How to reach me: https://youtube.com/@zisunal
+- 📫 Visit my portfolio: https://zisunal.com
 
 <!---
 zisunal/zisunal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
